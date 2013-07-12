@@ -1,0 +1,4 @@
+CryptNet
+========
+
+Core CryptNet components
